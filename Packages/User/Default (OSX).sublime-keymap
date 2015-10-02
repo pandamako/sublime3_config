@@ -1,0 +1,16 @@
+[
+  { "keys": ["j", "j"], "command": "_enter_normal_mode", "args": {"mode": "mode_insert"}, "context": [{"key": "vi_insert_mode_aware"}] },
+  { "keys": ["super+\\"], "command": "toggle_side_bar" },
+  { "keys": ["ctrl+j"], "command": "goto_definition" },
+  { "keys": ["ctrl+plus"], "command": "jump_forward" },
+  { "keys": ["ctrl+j"], "command": "move", "args": {"by": "lines", "forward": true}, "context":
+    [
+      { "key": "overlay_visible", "operator": "equal", "operand": true }
+    ]
+  },
+  { "keys": ["ctrl+k"], "command": "move", "args": {"by": "lines", "forward": false}, "context":
+    [
+      { "key": "overlay_visible", "operator": "equal", "operand": true }
+    ]
+  }
+]

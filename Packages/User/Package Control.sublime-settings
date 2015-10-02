@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"Better CoffeeScript",
+		"Better RSpec",
+		"CoffeeComplete Plus (Autocompletion)",
+		"Colorsublime",
+		"File Navigator",
+		"Git",
+		"Github Color Theme",
+		"I18n Rails",
+		"Javascript Beautify",
+		"JsFormat",
+		"JSONLint",
+		"Material Color Scheme",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"Rails Developer Snippets",
+		"RailsGoToSpec",
+		"RSpec",
+		"Ruby Hash Converter",
+		"Ruby on Rails snippets",
+		"Ruby Slim",
+		"Sass",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Theme - Solarized Space",
+		"Vintageous",
+		"VintageousOrigami"
+	]
+}
