@@ -12,5 +12,6 @@
     [
       { "key": "overlay_visible", "operator": "equal", "operand": true }
     ]
-  }
+  },
+  { "keys": ["ctrl+x"], "command": "destroy_pane", "args": {"direction": "self"} }
 ]
